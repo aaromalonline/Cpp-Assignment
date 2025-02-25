@@ -15,7 +15,7 @@ inline int binaryToDecimal(int binary) {
 }
 
 int main() {
-    cout << "Name: Kilian\nClass: BTech ECE\nRegister No: XXXXXXXX\n";
+    cout << "Name: Madona Rose Irenius\nClass: ECE A\nRegister No: 24102232\n";
     int binary;
     cout << "Enter binary number: ";
     cin >> binary;

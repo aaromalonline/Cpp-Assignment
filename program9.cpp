@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    cout << "Name: Kilian\nClass: BTech ECE\nRegister No: XXXXXXXX\n";
+    cout << "Name: Madona Rose Irenius\nClass: ECE A\nRegister No: 24102232\n";
     cout << "Lowercase: ";
     for (char c = 'a'; c <= 'z'; c++) cout << c << " ";
     cout << "\nUppercase: ";

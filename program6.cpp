@@ -15,7 +15,7 @@ public:
 };
 
 int main() {
-    cout << "Name: Kilian\nClass: BTech ECE\nRegister No: XXXXXXXX\n";
+    cout << "Name: Madona Rose Irenius\nClass: ECE A\nRegister No: 24102232\n";
     Converter obj;
     cout << "ASCII character: " << obj.toASCII(65) << "\n";
     cout << "ASCII string: " << obj.toASCII(45.67f) << endl;

@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    cout << "Name: Kilian\nClass: BTech ECE\nRegister No: XXXXXXXX\n";
+    cout << "Name: Madona Rose Irenius\nClass:ECE A\nRegister No: 24102232\n";
     int sum = 0;
     for (int i = 1; i <= 50; i += 2) {
         sum += i;

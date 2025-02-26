@@ -1,4 +1,5 @@
- 
+ //Q8. WAP to find power of a number using recursion
+
 #include <iostream>
 using namespace std;
 
@@ -8,7 +9,7 @@ int power(int base, int exp) {
 }
 
 int main() {
-    cout << "Name: Madona Rose Irenius\nClass: ECE A\nRegister No: 24102232\n";
+    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n";    
     int base, exp;
     cout << "Enter base and exponent: ";
     cin >> base >> exp;

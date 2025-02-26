@@ -1,13 +1,14 @@
+//Q3. WAP to do arithmetic operations according to user choice using switch case.
 
 #include <iostream>
 using namespace std;
 
 int main() {
-    cout << "Name: Madona Rose Irenius\nClass: ECE A\nRegister No: 24102232\n";
+    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n";    
     int a, b, choice;
     cout << "Enter two numbers: ";
     cin >> a >> b;
-    cout << "Choose operation: 1.Add 2.Subtract 3.Multiply 4.Divide: ";
+    cout << "Choose operation: 1.Add \n2.Subtract \n3.Multiply \n4.Divide: ";
     cin >> choice;
     
     switch (choice) {

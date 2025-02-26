@@ -1,9 +1,10 @@
- 
+//Q4. WAP to enter a multiple digit number and find its largest and smallest digits.
+
 #include <iostream>
 using namespace std;
 
 int main() {
-    cout << "Name: Madona Rose Irenius\nClass: ECE A\nRegister No: 24102232\n";
+    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n";    
     int num, largest = 0, smallest = 9;
     cout << "Enter a number: ";
     cin >> num;

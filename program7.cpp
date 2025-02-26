@@ -1,3 +1,4 @@
+//Q7. WAP to convert binary number to decimal number. Use inline function.
 
 #include <iostream>
 #include <cmath>
@@ -15,7 +16,7 @@ inline int binaryToDecimal(int binary) {
 }
 
 int main() {
-    cout << "Name: Madona Rose Irenius\nClass: ECE A\nRegister No: 24102232\n";
+    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n";    
     int binary;
     cout << "Enter binary number: ";
     cin >> binary;

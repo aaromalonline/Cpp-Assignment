@@ -1,4 +1,5 @@
- 
+ //Q6. WAP to convert an integer number to an ASCII character and float to ASCII string using function overloading.
+
 #include <iostream>
 #include <sstream>
 using namespace std;
@@ -15,7 +16,7 @@ public:
 };
 
 int main() {
-    cout << "Name: Madona Rose Irenius\nClass: ECE A\nRegister No: 24102232\n";
+    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n";    
     Converter obj;
     cout << "ASCII character: " << obj.toASCII(65) << "\n";
     cout << "ASCII string: " << obj.toASCII(45.67f) << endl;

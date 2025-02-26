@@ -1,4 +1,5 @@
- //Q6. WAP to convert an integer number to an ASCII character and float to ASCII string using function overloading.
+ /* Q6. WAP to convert an integer number to an ASCII character and float to ASCII 
+ string using function overloading. */
 
 #include <iostream>
 #include <sstream>

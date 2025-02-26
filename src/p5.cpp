@@ -1,4 +1,5 @@
-//Q5. WAP to find the area of square, rectangle, triangle and surface area of sphere using function overloading.
+/*Q5. WAP to find the area of square, rectangle, triangle and surface area of sphere 
+using function overloading.*/
 
 #include <iostream>
 using namespace std;

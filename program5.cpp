@@ -12,11 +12,11 @@ public:
 };
 
 int main() {
-    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n";
+    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n\n";
     Area obj;
-    cout << "Square area: " << obj.calculate(5) << "\n";
-    cout << "Rectangle area: " << obj.calculate(5, 10) << "\n";
-    cout << "Triangle area: " << obj.calculate(5, 10, 0) << "\n";
-    cout << "Sphere surface area: " << obj.calculateSphere(5) << endl;
+    cout << "Square area: " << obj.calculate(6) << "\n";
+    cout << "Rectangle area: " << obj.calculate(6, 9) << "\n";
+    cout << "Triangle area: " << obj.calculate(6, 9, 0) << "\n";
+    cout << "Sphere surface area: " << obj.calculateSphere(5) << "\n";
     return 0;
 }

@@ -13,7 +13,7 @@ C++easy
 using namespace std;
 
 int main() {
-    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n";    
+    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n\n";    
     string str = "C++easy";
     for (int i = 1; i <= str.length(); i++) {
         cout << str.substr(0, i) << endl;

@@ -8,7 +8,7 @@ int triangularNumber(int n) {
 }
 
 int main() {
-    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n";    
+    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n\n";    
     int num;
     cout << "Enter an integer: ";
     cin >> num;

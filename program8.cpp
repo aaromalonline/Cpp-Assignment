@@ -9,7 +9,7 @@ int power(int base, int exp) {
 }
 
 int main() {
-    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n";    
+    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n\n";    
     int base, exp;
     cout << "Enter base and exponent: ";
     cin >> base >> exp;

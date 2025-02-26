@@ -16,9 +16,9 @@ public:
 };
 
 int main() {
-    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n";    
+    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n\n";    
     Converter obj;
     cout << "ASCII character: " << obj.toASCII(65) << "\n";
-    cout << "ASCII string: " << obj.toASCII(45.67f) << endl;
+    cout << "ASCII string: " << obj.toASCII(45.67f) << "\n";
     return 0;
 }

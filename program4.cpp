@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n";    
+    cout << "Name: Aaromal A\nClass:ECE-A\nReg-No: 24101880\n\n";    
     int num, largest = 0, smallest = 9;
     cout << "Enter a number: ";
     cin >> num;
